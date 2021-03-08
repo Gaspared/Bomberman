@@ -1,2 +1,7 @@
 # Bomberman
-A Bomberman game in Java
+Bomberman Game in Java
+
+## https://youtu.be/SFUzOL_9aJA
+
+
+![bomb](thum.jpg)
