@@ -4,4 +4,4 @@ Bomberman Game in Java
 ## https://youtu.be/SFUzOL_9aJA
 
 
-![bomb](thum.jpg)
+![bomb](thum.jpeg)
